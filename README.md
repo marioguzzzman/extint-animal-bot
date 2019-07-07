@@ -1,27 +1,27 @@
 #  Bot project from the School of Machines and Make Believe.
-## Berlin, JUly 2019
+## Berlin, July 2019
 
-## Instruction
+## Instructions
 
-* install nodejs 
-* install npm 
-* npm install fs
+* `install nodejs`
+* `install npm`
+* `npm install fs`
 
 ### To run 
 
 * Go to folder on terminal
-* node bots.js
+* `node bots.js`
 * check out https://twitter.com/raid
 
 
 ## Text Generator 
  
-* npm install tracery-grammar --save
+* `npm install tracery-grammar --save`
 
 ## Image Scraper 
 
-* npm install request
-* npm install images-scraper
+* `npm install request`
+* `npm install images-scraper`
 
 ## Twitter bot
 
@@ -33,15 +33,15 @@ https://github.com/shiffman/A2Z-F
 Using the Twit node package
 https://github.com/ttezel/tw
 
-* npm install twit
+* `npm install twit`
 
 
 ## To do
 
-- [x] Put downloaded images in images folder
-- [x] Add ImageMagic code
-- [x] Add image effects
-- [x] Add hastags
+- [ ] Put downloaded images in images folder
+- [ ] Add ImageMagic code
+- [ ] Add image effects
+- [ ] Add hastags
 
 
 ## COLABORATORS
