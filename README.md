@@ -1,6 +1,37 @@
 #  Bot project from the School of Machines and Make Believe.
 ## Berlin, July 2019
 
+
+                  ,--.    ,--.
+                 ((O ))--((O ))
+               ,'_`--'____`--'_`.
+              _:  ____________  :_
+             | | ||::::::::::|| | |
+             | | ||::::::::::|| | |
+             | | ||::::::::::|| | |
+             |_| |/__________\| |_|
+               |________________|
+            __..-'            `-..__
+         .-| : .----------------. : |-.
+       ,\ || | |The animal I was| | || /.
+      /`.\:| | ||  __  __  __  || | |;/,'\
+     :`-._\;.| || '--''--''--' || |,:/_.-':
+     |    :  | || .----------. || |  :    |
+     |    |  | || '----------' || |  |    |
+     |    |  | ||   _   _   _  || |  |    |
+     :,--.;  | ||  (_) (_) (_) || |  :,--.;
+     (`-'|)  | ||______________|| |  (|`-')
+      `--'   | |/______________\| |   `--'
+             |____________________|
+              `.________________,'
+               (_______)(_______)
+               (_______)(_______)
+               (_______)(_______)
+               (_______)(_______)
+              |        ||        |
+              '--------''--------'
+              
+
 ## Instructions
 
 * `install nodejs`
@@ -9,9 +40,8 @@
 
 ### To run 
 
-* Go to folder on terminal
-* `node bots.js`
-* check out https://twitter.com/raid
+* Go to folder on terminal and run the bot: `node bots.js`
+* check out the results in: https://twitter.com/raid
 
 
 ## Text Generator 
@@ -34,7 +64,6 @@ Using the Twit node package
 https://github.com/ttezel/tw
 
 * `npm install twit`
-
 
 ## To do
 
