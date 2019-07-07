@@ -1,5 +1,5 @@
-#  BOT PROJECT FROM THE SCHOOL OF MACHINES AND MAKE BELIEVE, BERLIN, JULY 2019 
-
+#  Bot project from the School of Machines and Make Believe.
+## Berlin, JUly 2019
 
 ## Instruction
 
@@ -14,16 +14,16 @@
 * check out https://twitter.com/raid
 
 
-# Text Generator 
+## Text Generator 
  
 * npm install tracery-grammar --save
 
-# Image Scraper 
+## Image Scraper 
 
 * npm install request
 * npm install images-scraper
 
-# Twitter bot
+## Twitter bot
 
 A2Z F17
 Daniel Shiffman
